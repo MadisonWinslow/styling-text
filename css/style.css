@@ -9,3 +9,7 @@ boyd {
 figure > img {
     width: 100%;
 }
+
+figcaption, .article-category, .subtitle, .author, time {
+    font-family:'Open Sans';
+}
