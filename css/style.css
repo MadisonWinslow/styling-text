@@ -5,3 +5,7 @@ boyd {
     font-size: 1.125rem;
 
 }
+
+figure > img {
+    width: 100%;
+}
