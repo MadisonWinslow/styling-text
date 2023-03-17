@@ -38,3 +38,13 @@ figcaption {
     font-style: italicized; 
 }
 
+a:link {
+    text-decoration: underline
+
+}
+
+A:hover{
+    text-decoration: none;
+    color: #ff3530;
+
+}
