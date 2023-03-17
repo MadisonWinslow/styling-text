@@ -46,5 +46,10 @@ a:link {
 A:hover{
     text-decoration: none;
     color: #ff3530;
-
 }
+
+.author, .time {
+    font-size: .85rem;
+}
+
+
