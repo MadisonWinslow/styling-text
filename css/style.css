@@ -31,3 +31,10 @@ h1 {
     font-weight: bold;
 }
 
+figcaption {
+    font-size: .85rem;
+    text-align: center;
+    color: #757575;
+    font-style: italicized; 
+}
+
